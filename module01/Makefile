@@ -1,4 +1,4 @@
-NAME	:=	Yes
+NAME	:=	Relationship
 
 SRC	:=	$(wildcard ex00/*.cpp)
 
